@@ -9,7 +9,7 @@ import random
 os.chdir("C:\\Users\\(주)서홍건축N\\Desktop\\프로그램 ㅋㅋ\\자바스크립트")
 client = commands.Bot(command_prefix = '게임봇 ')
 
-token = "ODIyNjI0Mjg0NjY5MjQ3NDg5.YFU-kQ.y6HPujIcvY7dc2J3AO2Lz0DZ6Lw"
+token = "ODIyNjI0Mjg0NjY5MjQ3NDg5.YFU-kQ.ItvgoJSgA4N023wJ20UFkeZIwNQ"
 
 @client.event
 async def on_ready():
