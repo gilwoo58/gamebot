@@ -133,5 +133,9 @@ async def 도움말(ctx):
     "더 많은 명령어가 생길 예정입니다.."
     , color = 0x00ff00)
     await ctx.message.channel.send(embed=embed)
+    
+@client.command(aliases=['쌩쌩이', '썡썡이', '썡쌩이', '쌩썡이'])
+async def ssangssange(ctx):
+    await ctx.channel.send(f'**인성이 나빠** ㅁㄴㅇㄹ')
 
 client.run(token)
