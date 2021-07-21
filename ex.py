@@ -135,3 +135,5 @@ async def 도움말(ctx):
     await ctx.message.channel.send(embed=embed)
 
 client.run(token)
+
+# ㅁㄴ애ㅑㅓㅇㄴㅁㅎ러ㅏㅣㄴㅇ하ㅓㅣㄴㄹㅇ하ㅓㄴㄹ어ㅏㅣㄹㅇ허ㅏㅇ라ㅓㅎㅇㅁ니ㅏㅎㄴ이ㅏ호ㅗㅓ니랑
